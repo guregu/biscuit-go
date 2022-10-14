@@ -1,4 +1,4 @@
-module github.com/biscuit-auth/biscuit-go
+module github.com/guregu/biscuit-go/v2
 
 go 1.17
 

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/biscuit-auth/biscuit-go/datalog"
+	"github.com/guregu/biscuit-go/v2/datalog"
 	"github.com/stretchr/testify/require"
 )
 

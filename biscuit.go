@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/biscuit-auth/biscuit-go/datalog"
-	"github.com/biscuit-auth/biscuit-go/pb"
+	"github.com/guregu/biscuit-go/v2/datalog"
+	"github.com/guregu/biscuit-go/v2/pb"
 
-	//"github.com/biscuit-auth/biscuit-go/sig"
+	//"github.com/guregu/biscuit-go/sig"
 	"google.golang.org/protobuf/proto"
 )
 
